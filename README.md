@@ -3,7 +3,7 @@
 
  This bot uses twitchio.ext to interact with a Twitch channel and pyttsx3 to speak text on your local computer. 
 
- If you are a streamer you can incorporate this speech into your streams by capturing your PC's Desktop audio output. 
+ If you are a streamer you can incorporate speech chatroom commands into your streams by capturing your PC's Desktop audio output. 
 
 # Environment Preparation
 ##1) Install python3
