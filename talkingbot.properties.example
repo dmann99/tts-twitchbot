@@ -1,0 +1,16 @@
+# Config file for talkingbot.py
+[DEFAULT]
+# Twitch bot account
+nick = botusername
+# Chat token from https://twitchapps.com/tmi/
+irc_token = token
+# Client ID after app registered at https://dev.twitch.tv/console/apps/create
+client_id = id
+# Command prefix
+prefix = !
+# Channel to auto-login to
+channel = mychannelname
+# Gender, 0=Male, 1=Female
+gender = 0
+# Word per minute rate to speak
+wpm_rate = 120
